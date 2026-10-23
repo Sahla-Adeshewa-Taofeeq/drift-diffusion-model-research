@@ -1,33 +1,47 @@
-# drift-diffusion-model-research
-A research project exploring the Drift Diffusion Model (DDM), its mathematical foundations, and its application to decision-making processes.
-
-
 Drift Diffusion Model (DDM) Research
+
+A computational research project exploring the Drift Diffusion Model (DDM), its mathematical foundations, and its application to human decision-making.
 
 About the Project
 
-This project explores the Drift Diffusion Model (DDM), a mathematical model used to study decision-making processes.
+This project investigates the Drift Diffusion Model (DDM), a mathematical model used to understand how people make decisions when accumulating evidence over time.
 
-The project focuses on understanding the model's theoretical foundations, mathematical formulation, and relevance to decision-making research.
+The project combines theoretical research with a Python-based simulation to explore how model parameters influence decision-making performance.
 
 Project Objectives
 
-- Develop an understanding of the theoretical foundations of the Drift Diffusion Model.
-- Explore the mathematical principles underlying the model.
-- Examine the model's relevance to decision-making processes.
-- Gradually develop practical skills through computational exploration and simulation.
+- Understand the theoretical foundations and mathematical formulation of the Drift Diffusion Model.
+- Investigate how model parameters influence simulated decision-making.
+- Examine the relationship between evidence accumulation, decision accuracy, and response time.
+- Develop practical computational research skills through Python simulation, data analysis, and visualization.
 
-Current Progress
+Methods and Tools
 
-- Research report in preparation.
-- Studying the theoretical and mathematical foundations of the model.
-- Computational exploration and simulations planned as future project extensions.
+The project uses Python for computational simulation and analysis.
+
+Tools and technologies:
+
+- Python
+- NumPy
+- Matplotlib
+- CSV data for storing simulation results
+
+Repository Contents
+
+- Research Report (PDF): Documents the theoretical background, methodology, results, and discussion.
+- ddm_simulation.py: Python code for the DDM simulation.
+- ddm_graphs.py: Python code for generating visualizations of the simulation results.
+- ddm_results.csv: Tabular simulation results.
+- ddm_trial_results: Data recorded from individual simulation trials.
+
+Results and Visualization
+
+The project examines how changes in model parameters affect simulated decision-making outcomes. Graphs and numerical results are included in the research report to support the analysis.
 
 Future Work
 
-Future work may include implementing DDM simulations in Python, generating visualizations, and exploring how model parameters influence simulated decision-making behaviour.
+Potential extensions include exploring additional parameter combinations, investigating further aspects of decision-making behaviour, and extending the simulation to examine additional research questions.
 
 Acknowledgements
 
-This project is informed by scientific literature on the Drift Diffusion Model and decision-making. Relevant sources will be acknowledged in the research report.
-
+This project was informed by scientific literature on the Drift Diffusion Model and decision-making. Relevant sources are acknowledged in the research report. 
